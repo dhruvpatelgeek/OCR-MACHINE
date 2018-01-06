@@ -22,3 +22,5 @@ WORKING
 9)The cost function is called to calibrate the weights of the connections so that the neural network is fit for training.
 
 10)The test function uses these weights to identify the digits.
+
+CLICK ON neural network ocr.cpp TO LOOK AT THE SOURCE CODE.
