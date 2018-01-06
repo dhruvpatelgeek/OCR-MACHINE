@@ -3,7 +3,7 @@ This is my first attempt at machine learning. The entire program is coded by me 
 This program is a neural network that uses the MNIST database (http://yann.lecun.com/exdb/mnist/) to calibrate the software to 'read' digits from .jpeg type files.
 
 WORKING
-1)The .jpeg files are converted into .csv(comma seperated values) files at then saved as .txt
+1)The .jpeg files are converted into .csv(comma seperated values) files, then saved as .txt.
 
 2)The program then dynamically allocates structure arrays equal to the number of digits that are to be scanned.
 
