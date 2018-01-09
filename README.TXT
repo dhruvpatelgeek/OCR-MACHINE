@@ -1,3 +1,6 @@
+CLICK ON THIS LINK TO SEE A PREVIEW (vimeo.com/250357652)
+OR
+CLICK ON THE .cpp FILE ABOVE TO VIEW THE SOURCE CODE
 INTRODUCTION
 This is my first attempt at machine learning. The entire program is coded by me without the use of external libraries.
 This program is a neural network that uses the MNIST database (http://yann.lecun.com/exdb/mnist/) to calibrate the software to 'read' digits from .jpeg type files.
